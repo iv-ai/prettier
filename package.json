@@ -1,6 +1,6 @@
 {
   "name": "@ivai/prettier",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "IV.AIs prettier config... basically Standard",
   "main": ".prettierrc.json",
   "repository": "git@github.com:iv-ai/prettier.git",
