@@ -1,12 +1,12 @@
 {
   "name": "@ivai/prettier",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "IV.AIs prettier config... basically Standard",
   "main": ".prettierrc.json",
   "repository": "git@github.com:iv-ai/prettier.git",
   "author": "John Martin <john@iv.ai>",
   "license": "MIT",
   "peerDependencies": {
-    "prettier": "3.2.*"
+    "prettier": "3.3.*"
   }
 }
